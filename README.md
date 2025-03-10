@@ -29,7 +29,7 @@ JSON (Data Storage)
 
 
 ## Project Structure
-
+```
 OSTDS_Assign2/
 │── job_analysis.ipynb         # Jupyter Notebook for job market data analysis
 │── job_postings.json          # Scraped job postings dat
@@ -37,6 +37,7 @@ a in JSON format
 │── job_scrapper.ipynb         # Jupyter Notebook for web scraping job listings
 │── README.md                  # Project documentation
 │── requirements.txt           # Dependencies required for the project
+```
 
 
 ## Setup Instructions
